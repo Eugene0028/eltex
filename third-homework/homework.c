@@ -7,7 +7,6 @@ int IsPassOk(void);
 int main(void)
 {
     int PwStatus;
-
     puts("Enter password:");
     PwStatus = IsPassOk();
 
