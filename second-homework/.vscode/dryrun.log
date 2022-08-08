@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/eugene/Рабочий стол/eltex-homework/second-homework'
+make: Leaving directory '/home/eugene/Рабочий стол/eltex-homework/second-homework'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
